@@ -7,7 +7,7 @@ import numpy as np
 import pandas as pd
 from pandas import DataFrame
 
-from sklearn import tree, cross_validation, preprocessing
+from sklearn import tree, model_selection, preprocessing
 from sklearn.metrics import accuracy_score, confusion_matrix, classification_report, precision_score
 from sklearn.feature_extraction import DictVectorizer
 from sklearn.cross_validation import train_test_split
