@@ -1,0 +1,10 @@
+Feature,Count,% Miss.,Card.,Mode,Mode Freq.,Mode %,2nd Mode,2nd Mode Freq.,2nd Mode %
+job,27021,0.0,12,JobCat3,5771,21.4,JobCat6,5632,20.8
+marital,27021,0.0,3,married,16248,60.1,single,7683,28.4
+education,27021,0.0,4,secondary,13913,51.5,tertiary,7866,29.1
+default,27021,0.0,2,no,26529,98.2,yes,492,1.8
+housing,27021,0.0,2,yes,14989,55.5,no,12032,44.5
+loan,27021,0.0,2,no,22653,83.8,yes,4368,16.2
+contact,27021,0.0,3,cellular,17431,64.5,unknown,7826,29.0
+month,27021,0.0,12,may,8277,30.6,jul,4166,15.4
+poutcome,27021,0.0,4,unknown,22008,81.4,failure,3003,11.1

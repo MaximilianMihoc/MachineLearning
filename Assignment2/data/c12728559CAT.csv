@@ -1,0 +1,10 @@
+Feature,Count,% Miss.,Card.,Mode,Mode Freq.,Mode %,2nd Mode,2nd Mode Freq.,2nd Mode %
+job,18190,0.0,12,JobCat3,3961,21.8,JobCat6,3826,21.0
+marital,18190,0.0,3,married,10966,60.3,single,5107,28.1
+education,18190,0.0,4,secondary,9289,51.1,tertiary,5435,29.9
+default,18190,0.0,2,no,17867,98.2,yes,323,1.8
+housing,18190,0.0,2,yes,10141,55.8,no,8049,44.2
+loan,18190,0.0,2,no,15314,84.2,yes,2876,15.8
+contact,18190,0.0,3,cellular,11854,65.2,unknown,5194,28.6
+month,18190,0.0,12,may,5489,30.2,jul,2729,15.0
+poutcome,18190,0.0,4,unknown,14951,82.2,failure,1898,10.4
